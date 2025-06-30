@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Cache
+.cache/
+**/.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
